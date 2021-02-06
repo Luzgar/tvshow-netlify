@@ -1,0 +1,9 @@
+{
+  "name": "tvshow-netlify",
+  "version": "0.1.0",
+  "private": true,
+  "main": "user.js",
+  "dependencies": {
+    "mongodb": "^3.6.4"
+  }
+}
